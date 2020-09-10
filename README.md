@@ -1,0 +1,2 @@
+# hello_world
+I am finally figuring out this Hello World Project. I created this project as an extension to learn more about the Debugger for Chrome extension for Visual Studio Code. This is my first time to create a repository and I am very eager to learn not only about Visual Studio Code, but Github and the sorts of projects you can create in Github such as repositories and projects in within Github.  I am also very interested in learning more about Visual Studio Code and all sorts of extensions can download and use within Visual Studio Code.  There are a lot.
